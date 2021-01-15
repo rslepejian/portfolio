@@ -12,17 +12,43 @@ body {
     padding-top: 50px;
 }
 
+#main-content {
+    margin-top: 30px;
+}
+
+#header {
+    background-image: url(images/stockvault-waves.jpg);
+}
+
 .row{
     width: 100%;
 }
 
 #links {
-    margin-top: 30px;
     padding: 30px;
     background-color: brown;
     border-radius: 30px;
 }
 
-#header {
+#projects {
+    border-radius: 30px;
+    padding: 30px;
     background-image: url(images/stockvault-waves.jpg);
+    margin-top: 100px;
+}
+
+#proj-header {
+    text-align: center;
+    color: white;
+}
+
+#project-2, #project-1 {
+    padding: 20px;
+    padding-right: 0px;
+    border-radius: 30px;
+    background-color: aquamarine;
+}
+
+.project-preview {
+    max-width: 80%;
 }
