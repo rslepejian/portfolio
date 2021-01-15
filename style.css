@@ -47,7 +47,8 @@ body {
     color: white;
 }
 
-#project-2, #project-1 {
+#project-2, #project-1, #project-3 {
+    margin-bottom: 30px;
     padding: 20px;
     padding-right: 0px;
     border-radius: 30px;
