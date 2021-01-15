@@ -1,3 +1,7 @@
+body {
+    background-color: darkgrey;
+}
+
 #name, #email, #phone {
     text-align: center;
     color: white;
@@ -10,6 +14,13 @@
 
 .row{
     width: 100%;
+}
+
+#links {
+    margin-top: 30px;
+    padding: 30px;
+    background-color: brown;
+    border-radius: 30px;
 }
 
 #header {
